@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flooring-cost-decision-hub.vercel.app/sitemap.xml
